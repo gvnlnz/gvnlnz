@@ -12,13 +12,13 @@ Usually I build microservices held together with Docker. On my own time I tend t
 
 | depth | project | what it is |
 | :---: | --- | --- |
-| `0` | [blog-post-benchmark](https://github.com/gvnlnz/blog-post-benchmark) | Local LLMs writing Italian articles: Ollama, FastAPI, Laravel jobs |
-| `0` | [Briscola](https://github.com/gvnlnz/Briscola) | The Italian card game, in the browser |
-| `0` | [RESTful-API](https://github.com/gvnlnz/RESTful-API) | A Node.js + Express API |
-| `-2` | [redis-clone](https://github.com/gvnlnz/redis-clone) | The RESP protocol, reimplemented in C |
-| `-2` | [file-compressor](https://github.com/gvnlnz/file-compressor) | A file compressor in C |
-| `-2` | [libc-reconstructions](https://github.com/gvnlnz/libc-reconstructions) | Standard library functions, rebuilt from scratch |
-| `-3` | [Client-Server](https://github.com/gvnlnz/Client-Server) | Socket exercises in C |
+| `-1/-2` | [blog-post-benchmark](https://github.com/gvnlnz/blog-post-benchmark) | Local LLMs writing Italian articles: Ollama, FastAPI, Laravel jobs |
+| `-1` | [Briscola](https://github.com/gvnlnz/Briscola) | The Italian card game, in the browser |
+| `-1/-2` | [RESTful-API](https://github.com/gvnlnz/RESTful-API) | A Node.js + Express API |
+| `0/-3` | [redis-clone](https://github.com/gvnlnz/redis-clone) | The RESP protocol, reimplemented in C |
+| `-3` | [file-compressor](https://github.com/gvnlnz/file-compressor) | A file compressor in C |
+| `0/-3` | [libc-reconstructions](https://github.com/gvnlnz/libc-reconstructions) | Standard library functions, rebuilt from scratch |
+| `0/-3` | [Client-Server](https://github.com/gvnlnz/Client-Server) | Socket exercises in C |
 
 ### Lately
 
