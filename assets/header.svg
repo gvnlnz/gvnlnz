@@ -48,21 +48,21 @@
 
   <g class="row">
     
-    <text x="104" y="279" class="muted" text-anchor="end">0</text>
-    <text x="130" y="279" class="text" font-weight="700">security</text>
-    <text x="250" y="279" class="muted">Burp Suite, Pyshark, exploits and more to understand cyber-security.</text>
+    <text x="104" y="177" class="muted" text-anchor="end">0</text>
+    <text x="130" y="177" class="text" font-weight="700">security</text>
+    <text x="250" y="177" class="muted">Burp Suite, Pyshark, exploits and more to understand cyber-security.</text>
 
-    <text x="104" y="177" class="muted" text-anchor="end">-1</text>
-    <text x="130" y="177" class="text" font-weight="700">web</text>
-    <text x="250" y="177" class="muted">Laravel, React, Caddy and MySQL to ship modern web apps.</text>
+    <text x="104" y="211" class="muted" text-anchor="end">-1</text>
+    <text x="130" y="211" class="text" font-weight="700">web</text>
+    <text x="250" y="211" class="muted">Laravel, React, Caddy and MySQL to ship modern web apps.</text>
 
-    <text x="104" y="211" class="muted" text-anchor="end">-2</text>
-    <text x="130" y="211" class="text" font-weight="700">systems</text>
-    <text x="250" y="211" class="muted">Docker, Linux, Bash, Python to automate the environment.</text>
+    <text x="104" y="245" class="muted" text-anchor="end">-2</text>
+    <text x="130" y="245" class="text" font-weight="700">systems</text>
+    <text x="250" y="245" class="muted">Docker, Linux, Bash, Python to automate the environment.</text>
 
-    <text x="104" y="245" class="muted" text-anchor="end">-3</text>
-    <text x="130" y="245" class="text" font-weight="700">C</text>
-    <text x="250" y="245" class="muted">C to write system calls, understand algorithms and OSs.</text>
+    <text x="104" y="279" class="muted" text-anchor="end">-3</text>
+    <text x="130" y="279" class="text" font-weight="700">C</text>
+    <text x="250" y="279" class="muted">C to write system calls, understand algorithms and OSs.</text>
 
   </g>
 </svg>
